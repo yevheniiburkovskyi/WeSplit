@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F0DAACB32BC7D78900CC1E08 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DAACB22BC7D78900CC1E08 /* WeSplitApp.swift */; };
+		F00AD9172BC938A000EF1C39 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00AD9162BC938A000EF1C39 /* WeSplitApp.swift */; };
 		F0DAACB52BC7D78900CC1E08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DAACB42BC7D78900CC1E08 /* ContentView.swift */; };
 		F0DAACB72BC7D78A00CC1E08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0DAACB62BC7D78A00CC1E08 /* Assets.xcassets */; };
 		F0DAACBA2BC7D78A00CC1E08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0DAACB92BC7D78A00CC1E08 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F00AD9162BC938A000EF1C39 /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		F0DAACAF2BC7D78900CC1E08 /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0DAACB22BC7D78900CC1E08 /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		F0DAACB42BC7D78900CC1E08 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F0DAACB62BC7D78A00CC1E08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0DAACB92BC7D78A00CC1E08 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		F0DAACB12BC7D78900CC1E08 /* WeSplit */ = {
 			isa = PBXGroup;
 			children = (
-				F0DAACB22BC7D78900CC1E08 /* WeSplitApp.swift */,
+				F00AD9162BC938A000EF1C39 /* WeSplitApp.swift */,
 				F0DAACB42BC7D78900CC1E08 /* ContentView.swift */,
 				F0DAACB62BC7D78A00CC1E08 /* Assets.xcassets */,
 				F0DAACB82BC7D78A00CC1E08 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0DAACB52BC7D78900CC1E08 /* ContentView.swift in Sources */,
-				F0DAACB32BC7D78900CC1E08 /* WeSplitApp.swift in Sources */,
+				F00AD9172BC938A000EF1C39 /* WeSplitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
